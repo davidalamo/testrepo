@@ -1,3 +1,3 @@
 # testrepo
 
-Adding jypter link
+Adding jupyter link
